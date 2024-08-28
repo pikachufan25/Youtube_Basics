@@ -1,0 +1,15 @@
+Resolution: 1920x1280
+Font to Use: LT HOOp Med
+
+Careful of the Timer in the Bottom Right
+
+The Guides are Meant to Represent the "The Bevel" and the "Timer" Respectfully
+it is not 100% Accurate and Could 100% Change
+
+Treat the Guidelines as Hot-Zones
+the closer you are the More "Danger" You get of the image getting Cut off
+so it is Advice to NOT put anything INSIDE that area.
+
+
+More Information From Google Themselves:
+https://support.google.com/youtube/answer/72431?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cimage-size-resolution:~:text=Your%20custom%20thumbnail%20image,1280%20x%201280%20pixels).
